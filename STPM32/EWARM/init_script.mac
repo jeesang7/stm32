@@ -1,0 +1,44 @@
+//-----------------------------------------------
+//  Copyright (c)  2011  ST Microelectronics
+//  All rights reserved.
+//
+//  This is macro. It is executed from IAR
+//  before code execution
+//
+//  Follow the hereinafter comments to set
+//  the right connector (J7 or J8)
+//-----------------------------------------------
+
+execUserPreload()
+{
+	mreset_config();
+}
+
+execUserPreReset()
+{
+  disable_eerr();
+}
+
+execUserSetup()
+{
+	__message "Load extra images.";
+
+  __loadImage("$PROJ_DIR$\\..\\..\\..\\stm32_stpm\\EWARM\\stm32_stpm\\Exe\\stm32_stpm.out",0x0000000,1);
+
+}
+
+disable_eerr()
+{
+  __message "---- Disable USRCFG bit EERR ----" ;
+  __writeMemory32( 0x003e0531, 0x4000A05C, "Memory" );
+  __delay(20);
+}
+
+mreset_config()
+{
+	if(__driverType("gdbserv"))
+	{
+		__message "Configure MRESET as reset." ;
+		__gdbserver_exec_command("reset_config srst_only");
+	}
+}
