@@ -1,0 +1,10 @@
+<map id="M24SR_OpenNDEFSession" name="M24SR_OpenNDEFSession">
+<area shape="rect" id="node2" href="$group__drv_m24_s_r___public___functions.html#gabc5dc8df715132436efdbdb7042aeae1" title="This function sends the KillSession command to the M24SR device. " alt="" coords="258,132,395,159"/>
+<area shape="rect" id="node5" href="$group__drv_m24_s_r___public___functions.html#gab22d6058f708a9dee4b220d2b6bd4d7a" title="This function sends the GetSession command to the M24SR device. " alt="" coords="257,183,397,209"/>
+<area shape="rect" id="node6" href="$group__drv_m24_s_r___public___functions.html#ga9df2d4fbc09d240c00ef2ba796f83da8" title="This function sends the SelectApplication command. " alt="" coords="240,31,413,57"/>
+<area shape="rect" id="node9" href="$group__drv_m24_s_r___public___functions.html#ga223805ac60811dc15b378d8303ee6b5f" title="This function sends the SelectNDEFfile command. " alt="" coords="247,81,407,108"/>
+<area shape="rect" id="node3" href="$group___m24_s_r___i2_c___public___functions.html#ga2269a68db511321981370d3a46a2fa2b" title="This functions sends the command buffer. " alt="" coords="467,107,645,133"/>
+<area shape="rect" id="node4" href="$group___m24_s_r___i2_c___private___functions.html#gab27f50717fcd6854fa5562fefaeb472d" title="This functions polls the I2C interface. " alt="" coords="699,157,813,184"/>
+<area shape="rect" id="node7" href="$group___m24_s_r___i2_c___public___functions.html#ga55f46632c6c85f02402b1e6cdbf63153" title="This functions returns M24SR_STATUS_SUCCESS when a response is ready. " alt="" coords="475,5,637,32"/>
+<area shape="rect" id="node8" href="$group___m24_s_r___i2_c___public___functions.html#gac5912f2cd2d4f715c94cd9842d70cb42" title="This functions reads a response of the M24SR device. " alt="" coords="461,56,651,83"/>
+</map>

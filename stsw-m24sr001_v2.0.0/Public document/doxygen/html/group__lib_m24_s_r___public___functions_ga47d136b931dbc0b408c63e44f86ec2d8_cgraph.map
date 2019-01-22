@@ -1,0 +1,11 @@
+<map id="M24SR_GetNDEFFileId" name="M24SR_GetNDEFFileId">
+<area shape="rect" id="node2" href="$group__drv_m24_s_r___public___functions.html#gab22d6058f708a9dee4b220d2b6bd4d7a" title="This function sends the GetSession command to the M24SR device. " alt="" coords="214,5,354,32"/>
+<area shape="rect" id="node4" href="$group__drv_m24_s_r___public___functions.html#ga9df2d4fbc09d240c00ef2ba796f83da8" title="This function sends the SelectApplication command. " alt="" coords="403,208,576,235"/>
+<area shape="rect" id="node7" href="$group__drv_m24_s_r___public___functions.html#gabc060435d812ad1d4d07e627e926ad32" title="This function sends the SelectCCFile command. " alt="" coords="418,56,561,83"/>
+<area shape="rect" id="node8" href="$group__lib_m24_s_r___public___functions.html#ga133861f035c7e408d19510c4cedd595f" title="This fonction read the data stored in M24SR at defined offset. " alt="" coords="219,107,349,133"/>
+<area shape="rect" id="node10" href="$group__drv_m24_s_r___public___functions.html#gae254e68350c88a6a8bf7b64f800950b8" title="This function sends the Deselect command (S&#45;Block format) " alt="" coords="428,157,551,184"/>
+<area shape="rect" id="node3" href="$group___m24_s_r___i2_c___public___functions.html#ga2269a68db511321981370d3a46a2fa2b" title="This functions sends the command buffer. " alt="" coords="629,56,808,83"/>
+<area shape="rect" id="node5" href="$group___m24_s_r___i2_c___public___functions.html#ga55f46632c6c85f02402b1e6cdbf63153" title="This functions returns M24SR_STATUS_SUCCESS when a response is ready. " alt="" coords="637,157,800,184"/>
+<area shape="rect" id="node6" href="$group___m24_s_r___i2_c___public___functions.html#gac5912f2cd2d4f715c94cd9842d70cb42" title="This functions reads a response of the M24SR device. " alt="" coords="624,107,813,133"/>
+<area shape="rect" id="node9" href="$group__drv_m24_s_r___public___functions.html#ga03a3eb4b42c1247403744ec89114152d" title="This function sends a read binary command. " alt="" coords="420,107,559,133"/>
+</map>

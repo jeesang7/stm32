@@ -1,0 +1,13 @@
+<map id="M24SR_FWTExtension" name="M24SR_FWTExtension">
+<area shape="rect" id="node2" href="$group__drv_m24_s_r___private___functions.html#gaf8b1cb9ad6b0b9f5755caabacaf8e886" title="This function returns the CRC 16. " alt="" coords="475,56,619,83"/>
+<area shape="rect" id="node4" href="$group___m24_s_r___i2_c___public___functions.html#ga2269a68db511321981370d3a46a2fa2b" title="This functions sends the command buffer. " alt="" coords="231,56,409,83"/>
+<area shape="rect" id="node5" href="$group___m24_s_r___i2_c___public___functions.html#ga55f46632c6c85f02402b1e6cdbf63153" title="This functions returns M24SR_STATUS_SUCCESS when a response is ready. " alt="" coords="239,208,401,235"/>
+<area shape="rect" id="node11" href="$group___m24_s_r___i2_c___public___functions.html#gac5912f2cd2d4f715c94cd9842d70cb42" title="This functions reads a response of the M24SR device. " alt="" coords="225,157,415,184"/>
+<area shape="rect" id="node12" href="$group__drv_m24_s_r___private___functions.html#ga38c6a8847f45237010559469452d64c2" title="This function computes the CRC16 residue as defined by CRC ISO/IEC 13239. " alt="" coords="214,5,426,32"/>
+<area shape="rect" id="node3" href="$group__drv_m24_s_r___private___functions.html#ga3f8c22c2382afb63c8880e42a1c9b6f5" title="This function updates the CRC. " alt="" coords="677,56,811,83"/>
+<area shape="rect" id="node6" href="$group___m24_s_r___i2_c___private___functions.html#gaf79f7afa2a22ff27205c5ccf8ab31f97" title="This functions polls the I2C interface. " alt="" coords="490,157,603,184"/>
+<area shape="rect" id="node9" href="$group___h_w___config___public___functions.html#gabfa9cb3f1aa93cec2b6d07beaf6d2355" title="Time delay in millisecond. " alt="" coords="507,208,586,235"/>
+<area shape="rect" id="node7" href="$group___h_w___config___public___functions.html#ga6ff6aff9e684ab5c6fbc55371a06f695" title="Time delay in microsecond. " alt="" coords="707,157,781,184"/>
+<area shape="rect" id="node8" href="$group___h_w___config___private___functions.html#ga96c806017cce721adb222a829d292d40" title="Structure configuration for the Timer2 in us. " alt="" coords="870,157,1021,184"/>
+<area shape="rect" id="node10" href="$group___h_w___config___private___functions.html#gac18fa1b605e7e1c2d3830c26b7b45408" title="Structure configuration for the Timer2 in ms. " alt="" coords="667,208,821,235"/>
+</map>

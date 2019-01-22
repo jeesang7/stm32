@@ -1,0 +1,4 @@
+<map id="NDEF_ReadEmail" name="NDEF_ReadEmail">
+<area shape="rect" id="node2" href="$group__lib_email___private___functions.html#ga4c1d797047131e05b65a5e54ded0ac6d" title="This fonction read the Email and store data in a structure. " alt="" coords="181,5,336,32"/>
+<area shape="rect" id="node3" href="$group__lib_email___private___functions.html#ga5c06dace7ddd2c058033805e5dfc0499" title="This fonction fill Email structure with information of NDEF message. " alt="" coords="384,5,533,32"/>
+</map>

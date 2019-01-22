@@ -1,0 +1,51 @@
+/*!
+\mainpage M24SR discovery documentation
+\section sec_1 Introduction
+
+This document describes the firmware of the M24SR-DISCOVERY board.
+This document helps the developer to understand how works this firmware and how tailored its own application.
+
+\image html M24SR-DISCOVERY.jpg
+
+\section sec_2 M24SR discovery software layer organization
+
+The SW for this demonstration has been organized with the following structure
+
+\image html layers.jpg
+
+Where:
+
+<b>User Application:</b> This part manage the menu and is responsible to launch the action the user ask for.
+
+<b>NFC library:</b> Some development has been done to help managing the NDEF content of the tag, and the possible feature available with this tag.
+             For instance with M24SR you have a dedicated GPO.
+             
+<b>M24SR Driver:</b> This part is the purpose of this discovery kit, you will find everything you need to drive M24SR.
+
+<b>STM32 Peripherals library:</b> Is the library that contain the driver for the embedded feature of the STM32F1 which is used to drive the M24SR
+
+<b>M24SR:</b> Represent the hardware, so the M24SR dynamic tag itself
+
+  
+    
+
+If we go deeper in the layer organization you will find this structure
+
+\image html layers_ZoomIn.jpg
+
+<b>In Blue:</b> You will find files not directly linked to M24SR, but to the NFC protocol. They have been creating for the purpose of the demonstration. You can keep them like this, improve or replace by your own development.
+
+<b>In Yellow:</b> This is the heart of the firmware, these file are directly linked to the M24SR. You have the M24SR driver and its associated library that simplify the use of M24SR by adding some logical glue.
+
+<b>In Green:</b> The files you have to modify regarding your HW platform, unless you are using on your design a STM32F1 to drive the M24SR, in this case you can keep the file without any modification.
+
+
+\section sec_3 M24SR driver support for STM32F4
+
+Starting from version 1.2.0 STM32F4 is supported.
+
+On M24SR-DISCOVERY board you can switch from STM32F1 to STM32F4 by replacing the uC (which are pin to pin compatible) only 2 resistors must be removed has shown by this picture:
+
+\image html MovingFromF1toF4.jpg
+
+*/

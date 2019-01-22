@@ -1,0 +1,6 @@
+<map id="DisplayErrorMessage" name="DisplayErrorMessage">
+<area shape="rect" id="node2" href="$group___main___public___functions.html#gaf2b872e60e91b9a7e1c09b61232d4d55" title="Enables or disables EXTI for the menu navigation keys : " alt="" coords="200,5,325,32"/>
+<area shape="rect" id="node3" href="$group___menu___private___functions.html#ga206dfb9baec30fdc815efaf9f1cd0611" title="Wait user presses joystick. " alt="" coords="206,56,319,83"/>
+<area shape="rect" id="node5" href="$group___menu___private___functions.html#ga47c9959317df148b9c876d76da242cec" title="Displays the current menu. " alt="" coords="214,107,311,133"/>
+<area shape="rect" id="node4" href="$group___menu___private___functions.html#ga7c165bf58922e98896f715219d25d5cd" title="Reads key from demoboard. " alt="" coords="373,56,448,83"/>
+</map>

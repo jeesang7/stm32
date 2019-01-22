@@ -1,0 +1,4 @@
+<map id="NDEF_ReadSMS" name="NDEF_ReadSMS">
+<area shape="rect" id="node2" href="$group__lib_s_m_s___private___functions.html#gab792384893e72b87cd81c44efcbcb3c7" title="This fonction read the SMS and store data in a structure. " alt="" coords="177,5,327,32"/>
+<area shape="rect" id="node3" href="$group__lib_s_m_s___private___functions.html#gaaadc8cd81cb05499c2c1fb42824f4003" title="This fonction fill SMS structure with information of NDEF message. " alt="" coords="377,5,522,32"/>
+</map>

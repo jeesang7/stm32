@@ -1,0 +1,28 @@
+<map id="LaunchDemoApp" name="LaunchDemoApp">
+<area shape="rect" id="node2" href="$group__lib_t_t4___public___functions.html#ga6ade8a07fabd6dacc36b9261add8833d" title="This fonction write NDEF file. " alt="" coords="205,5,321,32"/>
+<area shape="rect" id="node4" href="$group__lib_t_t4___public___functions.html#ga21570387abbe2995e2a2b97fa921032e" title="This fonction add AAR (Android Application Record) in the tag. " alt="" coords="213,56,313,83"/>
+<area shape="rect" id="node6" href="$group__lib_special_feature___public___functions.html#gac15a2676cb691756d5e45acb48e81b0e" title="This function configure GPO purpose for RF or I2C session. " alt="" coords="176,107,349,133"/>
+<area shape="rect" id="node7" href="$group___main___public___functions.html#gaf2b872e60e91b9a7e1c09b61232d4d55" title="Enables or disables EXTI for the menu navigation keys : " alt="" coords="200,157,325,184"/>
+<area shape="rect" id="node8" href="$group___menu___private___functions.html#ga844382748f7771f525da71306078f99b" title="Wait debounce key. " alt="" coords="209,208,316,235"/>
+<area shape="rect" id="node10" href="$group__lib_t_t4___public___functions.html#gab352fc4e76f35e99d045b534a15e4fbb" title="This fonction read NDEF file if NDEF is identified as expected private application. " alt="" coords="202,309,323,336"/>
+<area shape="rect" id="node22" href="$group___h_w___config___public___functions.html#gabfa9cb3f1aa93cec2b6d07beaf6d2355" title="Time delay in millisecond. " alt="" coords="223,360,302,387"/>
+<area shape="rect" id="node24" href="$group___h_w___config___public___functions.html#ga6ff6aff9e684ab5c6fbc55371a06f695" title="Time delay in microsecond. " alt="" coords="225,411,300,437"/>
+<area shape="rect" id="node26" href="$group___menu___private___functions.html#gaf888d3024f01919927bca6095fea169f" title="Check what event occurs. " alt="" coords="235,259,290,285"/>
+<area shape="rect" id="node27" href="$group___menu___private___functions.html#ga47c9959317df148b9c876d76da242cec" title="Displays the current menu. " alt="" coords="214,461,311,488"/>
+<area shape="rect" id="node3" href="$group__lib_n_d_e_f___public___functions.html#gac9298bb7c6cb703a0116f8416966492b" title="This fonction write the NDEF in the TAG. " alt="" coords="409,5,540,32"/>
+<area shape="rect" id="node5" href="$group__lib_a_a_r___public___functions.html#ga6b345615052c6418a45e9bda44c77b1b" title="This fonction add AAR (Android Application Record) in the tag. " alt="" coords="417,56,532,83"/>
+<area shape="rect" id="node9" href="$group___menu___private___functions.html#ga7c165bf58922e98896f715219d25d5cd" title="Reads key from demoboard. " alt="" coords="437,208,512,235"/>
+<area shape="rect" id="node11" href="$group__lib_n_d_e_f___public___functions.html#gaf9cc282b3c5368fda3bdbde17238e7fa" title="This fonction identify the NDEF message stored in tag. " alt="" coords="405,259,545,285"/>
+<area shape="rect" id="node20" href="$group__lib_my_app___public___functions.html#ga5acd128cb8ea3471b9caa5b82cc55d3b" title="This fonction read NDEF and retrieve Application information if any. " alt="" coords="407,309,542,336"/>
+<area shape="rect" id="node12" href="$group__lib_n_d_e_f___private___functions.html#ga6b9d1514e140ec02c363f61aa5a066f0" title="This fonction check that the tag contain a NDEF message. " alt="" coords="629,208,784,235"/>
+<area shape="rect" id="node13" href="$group__lib_n_d_e_f___private___functions.html#gab8ac8043119e15bbadf4f28cfeaa9c71" title="This fonction parse the record header and dispatch regarding TNF value. " alt="" coords="617,259,797,285"/>
+<area shape="rect" id="node14" href="$group__lib_n_d_e_f___private___functions.html#gafcf4345bd0e7c903539f2f83c0a150be" title="This fonction parse the Well Known type record. " alt="" coords="871,183,1062,209"/>
+<area shape="rect" id="node18" href="$group__lib_n_d_e_f___private___functions.html#gab1b9824f7c776a201ef8c434493fe53a" title="This fonction parse the Media type record. " alt="" coords="886,233,1047,260"/>
+<area shape="rect" id="node19" href="$group__lib_n_d_e_f___private___functions.html#ga10f7a79f73cca019aa6b41e44038bf8f" title="This fonction parse the Forum External type record. " alt="" coords="861,284,1072,311"/>
+<area shape="rect" id="node15" href="$group__lib_n_d_e_f___private___functions.html#gab29777f53b5470c309a2d45f8b94dfd1" title="This fonction parse the Smart Poster. " alt="" coords="1122,183,1238,209"/>
+<area shape="rect" id="node17" href="$group__lib_n_d_e_f___private___functions.html#gac140356be51161ce954520e7e7341926" title="This fonction parse the URI type record. " alt="" coords="1121,233,1239,260"/>
+<area shape="rect" id="node16" href="$group__lib_n_d_e_f___private___functions.html#ga12ab4e4fb32b4907d5ab7a0c87b34999" title="This fonction identify the type of record. " alt="" coords="1289,259,1453,285"/>
+<area shape="rect" id="node21" href="$group__lib_my_app___private___functions.html#gab541659da5cfbdca71adda533d3e2aba" title="This fonction read the NDEF file and store application data in a structure. " alt="" coords="601,310,813,351"/>
+<area shape="rect" id="node23" href="$group___h_w___config___private___functions.html#gac18fa1b605e7e1c2d3830c26b7b45408" title="Structure configuration for the Timer2 in ms. " alt="" coords="397,360,552,387"/>
+<area shape="rect" id="node25" href="$group___h_w___config___private___functions.html#ga96c806017cce721adb222a829d292d40" title="Structure configuration for the Timer2 in us. " alt="" coords="399,411,550,437"/>
+</map>

@@ -1,0 +1,7 @@
+<map id="M24SR_WriteData" name="M24SR_WriteData">
+<area shape="rect" id="node2" href="$group__drv_m24_s_r___public___functions.html#ga36f646bb46d36223b5cc3742c92592ae" title="This function sends a Update binary command. " alt="" coords="185,56,335,83"/>
+<area shape="rect" id="node3" href="$group___m24_s_r___i2_c___public___functions.html#ga2269a68db511321981370d3a46a2fa2b" title="This functions sends the command buffer. " alt="" coords="389,5,568,32"/>
+<area shape="rect" id="node4" href="$group___m24_s_r___i2_c___public___functions.html#ga55f46632c6c85f02402b1e6cdbf63153" title="This functions returns M24SR_STATUS_SUCCESS when a response is ready. " alt="" coords="397,56,560,83"/>
+<area shape="rect" id="node6" href="$group___m24_s_r___i2_c___public___functions.html#gac5912f2cd2d4f715c94cd9842d70cb42" title="This functions reads a response of the M24SR device. " alt="" coords="384,107,573,133"/>
+<area shape="rect" id="node5" href="$group___m24_s_r___i2_c___private___functions.html#gab27f50717fcd6854fa5562fefaeb472d" title="This functions polls the I2C interface. " alt="" coords="622,56,735,83"/>
+</map>

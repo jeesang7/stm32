@@ -1,0 +1,5 @@
+<map id="M24SR_Driver" name="M24SR_Driver">
+<area shape="rect" id="node1" href="$group__drv___m24_s_r.html" title="This file contains the driver which implements all the M24SR commands. " alt="" coords="157,5,248,32"/>
+<area shape="rect" id="node2" href="$group__lib___m24_s_r.html" title="This is the library to interface with the M24SR dynamic tag. This layer simplify the use of the M24SR..." alt="" coords="158,56,247,83"/>
+<area shape="rect" id="node4" href="$group___m24_s_r___i2_c.html" title="This file includes the I2C driver used by M24SR family to communicate with the MCU. " alt="" coords="157,107,248,133"/>
+</map>

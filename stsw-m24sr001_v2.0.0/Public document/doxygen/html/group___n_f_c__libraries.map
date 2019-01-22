@@ -1,0 +1,5 @@
+<map id="NFC_libraries" name="NFC_libraries">
+<area shape="rect" id="node1" href="$group__lib_i_s_o7816.html" title="This part of the library help to manage TAG with ISO7816 feature. " alt="" coords="170,5,259,32"/>
+<area shape="rect" id="node2" href="$group__lib_s_t_proprietary.html" title="This part of the library help to manage TAG with proprietary feature. " alt="" coords="155,56,274,83"/>
+<area shape="rect" id="node3" href="$group__lib_n_f_c___f_o_r_u_m.html" title="This part of the library manage data which follow NFC forum organisation. " alt="" coords="155,107,274,133"/>
+</map>

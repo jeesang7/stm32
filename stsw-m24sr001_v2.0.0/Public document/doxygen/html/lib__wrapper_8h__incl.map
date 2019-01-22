@@ -1,0 +1,5 @@
+<map id="C:/SVN/M24SR/trunk/Libraries/M24SR/inc/lib_wrapper.h" name="C:/SVN/M24SR/trunk/Libraries/M24SR/inc/lib_wrapper.h">
+<area shape="rect" id="node2" href="$lib___m24_s_r_8h.html" title="This file help to manage Data inside M24SR. " alt="" coords="31,109,127,136"/>
+<area shape="rect" id="node3" href="$drv___m24_s_r_8h.html" title="This file provides a set of functions needed to manage M24SR. " alt="" coords="29,184,128,211"/>
+<area shape="rect" id="node4" href="$drv___i2_c___m24_s_r_8h.html" title="This file provides a set of functions needed to manage the I2C of the M24SR device. " alt="" coords="16,259,141,285"/>
+</map>

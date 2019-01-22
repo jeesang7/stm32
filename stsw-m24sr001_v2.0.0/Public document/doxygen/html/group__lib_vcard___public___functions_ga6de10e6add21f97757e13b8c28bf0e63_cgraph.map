@@ -1,0 +1,4 @@
+<map id="NDEF_ReadVcard" name="NDEF_ReadVcard">
+<area shape="rect" id="node2" href="$group__lib_vcard___private___functions.html#ga798ecaeb88de820f1159debd4953816c" title="This fonction read the Vcard and store data in a structure. " alt="" coords="182,5,322,32"/>
+<area shape="rect" id="node3" href="$group__lib_vcard___private___functions.html#ga9e2e7979fb5db6794f8e4615b5f620f3" title="This fonction fill Vcard structure with information of NDEF message. " alt="" coords="371,5,522,32"/>
+</map>

@@ -1,0 +1,10 @@
+<map id="WriteEmail" name="WriteEmail">
+<area shape="rect" id="node2" href="$group__lib_t_t4___public___functions.html#gac9117bd088e01bbac57795b8dd6341d8" title="This fonction write NDEF file from data given in the eMail structure. " alt="" coords="157,5,272,32"/>
+<area shape="rect" id="node4" href="$group___menu___private___functions.html#ga688a0af4cfd454ffa92682000b5314eb" title="Screen config to inform user that content has been stored in M24SR. " alt="" coords="155,107,274,133"/>
+<area shape="rect" id="node9" href="$group___menu___private___functions.html#ga01dd75c2c15348ac22e6a17eb94966b5" title="Screen config to warn user that content has not been stored in M24SR. " alt="" coords="141,56,288,83"/>
+<area shape="rect" id="node3" href="$group__lib_email___public___functions.html#ga195604501c9652aa05c0c1624f409b42" title="This fonction write the NDEF file with the Email data given in the structure. " alt="" coords="336,5,464,32"/>
+<area shape="rect" id="node5" href="$group___main___public___functions.html#gaf2b872e60e91b9a7e1c09b61232d4d55" title="Enables or disables EXTI for the menu navigation keys : " alt="" coords="337,56,463,83"/>
+<area shape="rect" id="node6" href="$group___menu___private___functions.html#ga206dfb9baec30fdc815efaf9f1cd0611" title="Wait user presses joystick. " alt="" coords="343,107,457,133"/>
+<area shape="rect" id="node8" href="$group___menu___private___functions.html#ga47c9959317df148b9c876d76da242cec" title="Displays the current menu. " alt="" coords="351,157,449,184"/>
+<area shape="rect" id="node7" href="$group___menu___private___functions.html#ga7c165bf58922e98896f715219d25d5cd" title="Reads key from demoboard. " alt="" coords="512,107,587,133"/>
+</map>

@@ -1,0 +1,12 @@
+<map id="Enable_GPO_RF" name="Enable_GPO_RF">
+<area shape="rect" id="node2" href="$group__lib_t_t4___public___functions.html#ga6ade8a07fabd6dacc36b9261add8833d" title="This fonction write NDEF file. " alt="" coords="205,5,321,32"/>
+<area shape="rect" id="node4" href="$group__lib_t_t4___public___functions.html#ga21570387abbe2995e2a2b97fa921032e" title="This fonction add AAR (Android Application Record) in the tag. " alt="" coords="213,56,313,83"/>
+<area shape="rect" id="node6" href="$group__lib_special_feature___public___functions.html#gac15a2676cb691756d5e45acb48e81b0e" title="This function configure GPO purpose for RF or I2C session. " alt="" coords="176,107,349,133"/>
+<area shape="rect" id="node7" href="$group___main___public___functions.html#gaf2b872e60e91b9a7e1c09b61232d4d55" title="Enables or disables EXTI for the menu navigation keys : " alt="" coords="200,157,325,184"/>
+<area shape="rect" id="node8" href="$group___menu___private___functions.html#ga844382748f7771f525da71306078f99b" title="Wait debounce key. " alt="" coords="209,208,316,235"/>
+<area shape="rect" id="node10" href="$group___menu___private___functions.html#gaf888d3024f01919927bca6095fea169f" title="Check what event occurs. " alt="" coords="235,259,290,285"/>
+<area shape="rect" id="node11" href="$group___menu___private___functions.html#ga47c9959317df148b9c876d76da242cec" title="Displays the current menu. " alt="" coords="214,309,311,336"/>
+<area shape="rect" id="node3" href="$group__lib_n_d_e_f___public___functions.html#gac9298bb7c6cb703a0116f8416966492b" title="This fonction write the NDEF in the TAG. " alt="" coords="397,5,528,32"/>
+<area shape="rect" id="node5" href="$group__lib_a_a_r___public___functions.html#ga6b345615052c6418a45e9bda44c77b1b" title="This fonction add AAR (Android Application Record) in the tag. " alt="" coords="405,56,520,83"/>
+<area shape="rect" id="node9" href="$group___menu___private___functions.html#ga7c165bf58922e98896f715219d25d5cd" title="Reads key from demoboard. " alt="" coords="425,233,500,260"/>
+</map>

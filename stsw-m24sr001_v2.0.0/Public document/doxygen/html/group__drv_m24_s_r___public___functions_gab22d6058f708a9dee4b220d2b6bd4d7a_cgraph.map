@@ -1,0 +1,4 @@
+<map id="M24SR_GetSession" name="M24SR_GetSession">
+<area shape="rect" id="node2" href="$group___m24_s_r___i2_c___public___functions.html#ga2269a68db511321981370d3a46a2fa2b" title="This functions sends the command buffer. " alt="" coords="195,5,373,32"/>
+<area shape="rect" id="node3" href="$group___m24_s_r___i2_c___private___functions.html#gab27f50717fcd6854fa5562fefaeb472d" title="This functions polls the I2C interface. " alt="" coords="227,56,341,83"/>
+</map>

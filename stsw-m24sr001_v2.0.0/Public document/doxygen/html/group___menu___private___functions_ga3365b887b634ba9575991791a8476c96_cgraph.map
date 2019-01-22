@@ -1,0 +1,10 @@
+<map id="Load_BT_NDEF" name="Load_BT_NDEF">
+<area shape="rect" id="node2" href="$group___menu___private___functions.html#ga03613c67d9be4dd983dbc710f24d3453" title="convert a char to it&#39;s ASCII coding byte. " alt="" coords="191,5,270,32"/>
+<area shape="rect" id="node3" href="$group__lib_t_t4___public___functions.html#ga6ade8a07fabd6dacc36b9261add8833d" title="This fonction write NDEF file. " alt="" coords="173,56,289,83"/>
+<area shape="rect" id="node5" href="$group___main___public___functions.html#gaf2b872e60e91b9a7e1c09b61232d4d55" title="Enables or disables EXTI for the menu navigation keys : " alt="" coords="168,107,293,133"/>
+<area shape="rect" id="node6" href="$group___menu___private___functions.html#ga844382748f7771f525da71306078f99b" title="Wait debounce key. " alt="" coords="177,157,284,184"/>
+<area shape="rect" id="node8" href="$group___menu___private___functions.html#ga206dfb9baec30fdc815efaf9f1cd0611" title="Wait user presses joystick. " alt="" coords="174,208,287,235"/>
+<area shape="rect" id="node9" href="$group___menu___private___functions.html#ga47c9959317df148b9c876d76da242cec" title="Displays the current menu. " alt="" coords="182,259,279,285"/>
+<area shape="rect" id="node4" href="$group__lib_n_d_e_f___public___functions.html#gac9298bb7c6cb703a0116f8416966492b" title="This fonction write the NDEF in the TAG. " alt="" coords="341,56,472,83"/>
+<area shape="rect" id="node7" href="$group___menu___private___functions.html#ga7c165bf58922e98896f715219d25d5cd" title="Reads key from demoboard. " alt="" coords="369,183,444,209"/>
+</map>

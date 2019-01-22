@@ -1,0 +1,4 @@
+<map id="NDEF_ReadGeo" name="NDEF_ReadGeo">
+<area shape="rect" id="node2" href="$group__lib_geo___private___functions.html#ga0eaac54ce915256a70be23ad56935e44" title="This fonction read the geoloccation information and store data in a structure. " alt="" coords="173,5,320,32"/>
+<area shape="rect" id="node3" href="$group__lib_geo___private___functions.html#ga3b2fcbf5bddcd57c846e3226ef5ef583" title="This fonction fill Geo structure with information of NDEF message. " alt="" coords="369,5,509,32"/>
+</map>

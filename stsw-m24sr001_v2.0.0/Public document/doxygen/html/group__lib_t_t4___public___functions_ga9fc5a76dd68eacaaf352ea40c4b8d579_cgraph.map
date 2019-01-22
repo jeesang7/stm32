@@ -1,0 +1,4 @@
+<map id="TT4_ReadSMS" name="TT4_ReadSMS">
+<area shape="rect" id="node2" href="$group__lib_n_d_e_f___public___functions.html#gaf9cc282b3c5368fda3bdbde17238e7fa" title="This fonction identify the NDEF message stored in tag. " alt="" coords="163,5,303,32"/>
+<area shape="rect" id="node3" href="$group__lib_s_m_s___public___functions.html#ga529c71659bbf92891af1923f4919fbb7" title="This fonction read NDEF and retrieve SMS information if any. " alt="" coords="172,56,295,83"/>
+</map>

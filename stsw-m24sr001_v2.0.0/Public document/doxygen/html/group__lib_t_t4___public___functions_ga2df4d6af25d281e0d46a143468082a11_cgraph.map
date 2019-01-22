@@ -1,0 +1,4 @@
+<map id="TT4_ReadGeo" name="TT4_ReadGeo">
+<area shape="rect" id="node2" href="$group__lib_n_d_e_f___public___functions.html#gaf9cc282b3c5368fda3bdbde17238e7fa" title="This fonction identify the NDEF message stored in tag. " alt="" coords="158,5,298,32"/>
+<area shape="rect" id="node3" href="$group__lib_geo___public___functions.html#ga92c1db518c91046a7a22f0443da8fa24" title="This fonction read NDEF and retrieve Geo information if any. " alt="" coords="169,56,287,83"/>
+</map>

@@ -1,0 +1,21 @@
+<map id="ReadGeo" name="ReadGeo">
+<area shape="rect" id="node2" href="$group__lib_t_t4___public___functions.html#ga2df4d6af25d281e0d46a143468082a11" title="This fonction read NDEF file if NDEF is identified as geolocation information. " alt="" coords="136,56,240,83"/>
+<area shape="rect" id="node15" href="$group___menu___private___functions.html#ga21dd913b7d9903596f77ca19be970779" title="Screen config to display Geolocation information. " alt="" coords="143,259,233,285"/>
+<area shape="rect" id="node16" href="$group___main___public___functions.html#gaf2b872e60e91b9a7e1c09b61232d4d55" title="Enables or disables EXTI for the menu navigation keys : " alt="" coords="301,157,427,184"/>
+<area shape="rect" id="node17" href="$group___menu___private___functions.html#ga844382748f7771f525da71306078f99b" title="Wait debounce key. " alt="" coords="311,208,417,235"/>
+<area shape="rect" id="node19" href="$group___menu___private___functions.html#ga47c9959317df148b9c876d76da242cec" title="Displays the current menu. " alt="" coords="315,309,413,336"/>
+<area shape="rect" id="node20" href="$group___menu___private___functions.html#ga206dfb9baec30fdc815efaf9f1cd0611" title="Wait user presses joystick. " alt="" coords="131,107,245,133"/>
+<area shape="rect" id="node3" href="$group__lib_n_d_e_f___public___functions.html#gaf9cc282b3c5368fda3bdbde17238e7fa" title="This fonction identify the NDEF message stored in tag. " alt="" coords="294,56,434,83"/>
+<area shape="rect" id="node12" href="$group__lib_geo___public___functions.html#ga92c1db518c91046a7a22f0443da8fa24" title="This fonction read NDEF and retrieve Geo information if any. " alt="" coords="305,5,423,32"/>
+<area shape="rect" id="node4" href="$group__lib_n_d_e_f___private___functions.html#ga6b9d1514e140ec02c363f61aa5a066f0" title="This fonction check that the tag contain a NDEF message. " alt="" coords="496,56,651,83"/>
+<area shape="rect" id="node5" href="$group__lib_n_d_e_f___private___functions.html#gab8ac8043119e15bbadf4f28cfeaa9c71" title="This fonction parse the record header and dispatch regarding TNF value. " alt="" coords="483,107,663,133"/>
+<area shape="rect" id="node6" href="$group__lib_n_d_e_f___private___functions.html#gafcf4345bd0e7c903539f2f83c0a150be" title="This fonction parse the Well Known type record. " alt="" coords="722,157,913,184"/>
+<area shape="rect" id="node10" href="$group__lib_n_d_e_f___private___functions.html#gab1b9824f7c776a201ef8c434493fe53a" title="This fonction parse the Media type record. " alt="" coords="737,208,898,235"/>
+<area shape="rect" id="node11" href="$group__lib_n_d_e_f___private___functions.html#ga10f7a79f73cca019aa6b41e44038bf8f" title="This fonction parse the Forum External type record. " alt="" coords="712,56,923,83"/>
+<area shape="rect" id="node7" href="$group__lib_n_d_e_f___private___functions.html#gab29777f53b5470c309a2d45f8b94dfd1" title="This fonction parse the Smart Poster. " alt="" coords="973,208,1089,235"/>
+<area shape="rect" id="node9" href="$group__lib_n_d_e_f___private___functions.html#gac140356be51161ce954520e7e7341926" title="This fonction parse the URI type record. " alt="" coords="971,157,1090,184"/>
+<area shape="rect" id="node8" href="$group__lib_n_d_e_f___private___functions.html#ga12ab4e4fb32b4907d5ab7a0c87b34999" title="This fonction identify the type of record. " alt="" coords="1139,157,1303,184"/>
+<area shape="rect" id="node13" href="$group__lib_geo___private___functions.html#ga0eaac54ce915256a70be23ad56935e44" title="This fonction read the geoloccation information and store data in a structure. " alt="" coords="500,5,647,32"/>
+<area shape="rect" id="node14" href="$group__lib_geo___private___functions.html#ga3b2fcbf5bddcd57c846e3226ef5ef583" title="This fonction fill Geo structure with information of NDEF message. " alt="" coords="747,5,887,32"/>
+<area shape="rect" id="node18" href="$group___menu___private___functions.html#ga7c165bf58922e98896f715219d25d5cd" title="Reads key from demoboard. " alt="" coords="536,208,611,235"/>
+</map>

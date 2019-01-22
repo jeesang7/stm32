@@ -1,0 +1,8 @@
+<map id="NDEF_ParseSP" name="NDEF_ParseSP">
+<area shape="rect" id="node2" href="$group__lib_n_d_e_f___private___functions.html#ga12ab4e4fb32b4907d5ab7a0c87b34999" title="This fonction identify the type of record. " alt="" coords="171,56,335,83"/>
+<area shape="rect" id="node3" href="$group__lib_n_d_e_f___private___functions.html#gab8ac8043119e15bbadf4f28cfeaa9c71" title="This fonction parse the record header and dispatch regarding TNF value. " alt="" coords="385,56,565,83"/>
+<area shape="rect" id="node4" href="$group__lib_n_d_e_f___private___functions.html#gafcf4345bd0e7c903539f2f83c0a150be" title="This fonction parse the Well Known type record. " alt="" coords="623,5,814,32"/>
+<area shape="rect" id="node6" href="$group__lib_n_d_e_f___private___functions.html#gab1b9824f7c776a201ef8c434493fe53a" title="This fonction parse the Media type record. " alt="" coords="638,56,799,83"/>
+<area shape="rect" id="node7" href="$group__lib_n_d_e_f___private___functions.html#ga10f7a79f73cca019aa6b41e44038bf8f" title="This fonction parse the Forum External type record. " alt="" coords="613,107,824,133"/>
+<area shape="rect" id="node5" href="$group__lib_n_d_e_f___private___functions.html#gac140356be51161ce954520e7e7341926" title="This fonction parse the URI type record. " alt="" coords="873,5,991,32"/>
+</map>

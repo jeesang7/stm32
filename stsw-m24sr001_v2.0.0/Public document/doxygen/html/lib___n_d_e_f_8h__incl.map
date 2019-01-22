@@ -1,0 +1,6 @@
+<map id="C:/SVN/M24SR/trunk/Libraries/M24SR/inc/lib_NDEF.h" name="C:/SVN/M24SR/trunk/Libraries/M24SR/inc/lib_NDEF.h">
+<area shape="rect" id="node2" href="$lib__wrapper_8h.html" title="This file help to have upper layer independent from HW. " alt="" coords="29,109,128,136"/>
+<area shape="rect" id="node3" href="$lib___m24_s_r_8h.html" title="This file help to manage Data inside M24SR. " alt="" coords="31,184,127,211"/>
+<area shape="rect" id="node4" href="$drv___m24_s_r_8h.html" title="This file provides a set of functions needed to manage M24SR. " alt="" coords="29,259,128,285"/>
+<area shape="rect" id="node5" href="$drv___i2_c___m24_s_r_8h.html" title="This file provides a set of functions needed to manage the I2C of the M24SR device. " alt="" coords="16,333,141,360"/>
+</map>

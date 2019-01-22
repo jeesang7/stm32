@@ -1,0 +1,8 @@
+<map id="ProductPres" name="ProductPres">
+<area shape="rect" id="node2" href="$group___main___public___functions.html#gaf2b872e60e91b9a7e1c09b61232d4d55" title="Enables or disables EXTI for the menu navigation keys : " alt="" coords="149,5,275,32"/>
+<area shape="rect" id="node3" href="$group___menu___private___functions.html#ga844382748f7771f525da71306078f99b" title="Wait debounce key. " alt="" coords="159,56,265,83"/>
+<area shape="rect" id="node4" href="$group___menu___private___functions.html#ga7c165bf58922e98896f715219d25d5cd" title="Reads key from demoboard. " alt="" coords="323,132,397,159"/>
+<area shape="rect" id="node5" href="$group___menu___private___functions.html#ga3852da51682c57ef1a0aee3293593c42" title="Inserts a delay time while no joystick RIGHT, LEFT and SEL. " alt="" coords="159,157,265,184"/>
+<area shape="rect" id="node6" href="$group___menu___private___functions.html#ga206dfb9baec30fdc815efaf9f1cd0611" title="Wait user presses joystick. " alt="" coords="155,208,269,235"/>
+<area shape="rect" id="node7" href="$group___menu___private___functions.html#ga47c9959317df148b9c876d76da242cec" title="Displays the current menu. " alt="" coords="163,259,261,285"/>
+</map>

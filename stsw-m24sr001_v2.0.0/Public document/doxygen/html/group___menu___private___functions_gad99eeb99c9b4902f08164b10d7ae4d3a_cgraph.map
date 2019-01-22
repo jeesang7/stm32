@@ -1,0 +1,10 @@
+<map id="ReturnFunc" name="ReturnFunc">
+<area shape="rect" id="node2" href="$group___menu___private___functions.html#ga47c9959317df148b9c876d76da242cec" title="Displays the current menu. " alt="" coords="483,5,581,32"/>
+<area shape="rect" id="node3" href="$group___menu___public___functions.html#ga19356b9996c705f2a70cf37077cdd6f6" title="Show the main menu icon. " alt="" coords="144,132,261,159"/>
+<area shape="rect" id="node4" href="$group___main___public___functions.html#gaf2b872e60e91b9a7e1c09b61232d4d55" title="Enables or disables EXTI for the menu navigation keys : " alt="" coords="309,81,435,108"/>
+<area shape="rect" id="node5" href="$group___menu___private___functions.html#ga844382748f7771f525da71306078f99b" title="Wait debounce key. " alt="" coords="319,132,425,159"/>
+<area shape="rect" id="node6" href="$group___menu___private___functions.html#ga7c165bf58922e98896f715219d25d5cd" title="Reads key from demoboard. " alt="" coords="495,157,569,184"/>
+<area shape="rect" id="node7" href="$group___menu___private___functions.html#ga54dc87c7c637a2d65ca6eefb246650d3" title="Initializes the navigation menu. " alt="" coords="333,233,411,260"/>
+<area shape="rect" id="node8" href="$group___menu___private___functions.html#gaacbe3ea55e4880b54a19bf0b269e3ae5" title="Display menu icons. " alt="" coords="324,284,420,311"/>
+<area shape="rect" id="node9" href="$group___menu___public___functions.html#ga5cbbbebc26eabd54da7c1cc56c331875" title="This function is executed when &quot;SEL&quot; push&#45;button is pressed. " alt="" coords="337,31,407,57"/>
+</map>

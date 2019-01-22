@@ -1,0 +1,11 @@
+<map id="M24SR_ManageRFGPO" name="M24SR_ManageRFGPO">
+<area shape="rect" id="node2" href="$group__drv_m24_s_r___public___functions.html#ga9df2d4fbc09d240c00ef2ba796f83da8" title="This function sends the SelectApplication command. " alt="" coords="219,56,392,83"/>
+<area shape="rect" id="node7" href="$group__drv_m24_s_r___public___functions.html#gadf3a43cf64839b54d78db08bf3cdad1e" title="This function sends the SelectSystemFile command. " alt="" coords="220,107,391,133"/>
+<area shape="rect" id="node8" href="$group__drv_m24_s_r___public___functions.html#ga03a3eb4b42c1247403744ec89114152d" title="This function sends a read binary command. " alt="" coords="236,157,375,184"/>
+<area shape="rect" id="node9" href="$group__drv_m24_s_r___public___functions.html#gac2f0a88b5dabcca5e4c995b3309a6dd3" title="This function sends the Verify command. " alt="" coords="253,208,358,235"/>
+<area shape="rect" id="node10" href="$group__drv_m24_s_r___public___functions.html#ga36f646bb46d36223b5cc3742c92592ae" title="This function sends a Update binary command. " alt="" coords="230,5,381,32"/>
+<area shape="rect" id="node3" href="$group___m24_s_r___i2_c___public___functions.html#ga2269a68db511321981370d3a46a2fa2b" title="This functions sends the command buffer. " alt="" coords="445,56,624,83"/>
+<area shape="rect" id="node4" href="$group___m24_s_r___i2_c___public___functions.html#ga55f46632c6c85f02402b1e6cdbf63153" title="This functions returns M24SR_STATUS_SUCCESS when a response is ready. " alt="" coords="453,107,616,133"/>
+<area shape="rect" id="node6" href="$group___m24_s_r___i2_c___public___functions.html#gac5912f2cd2d4f715c94cd9842d70cb42" title="This functions reads a response of the M24SR device. " alt="" coords="440,157,629,184"/>
+<area shape="rect" id="node5" href="$group___m24_s_r___i2_c___private___functions.html#gab27f50717fcd6854fa5562fefaeb472d" title="This functions polls the I2C interface. " alt="" coords="678,107,791,133"/>
+</map>
