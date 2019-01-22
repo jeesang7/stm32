@@ -1,0 +1,6 @@
+<map id="User_Appli" name="User_Appli">
+<area shape="rect" id="node1" href="$group___menu.html" title="This file contains the menu navigation driver for M24SR&#45;DISCOVERY. " alt="" coords="161,5,215,32"/>
+<area shape="rect" id="node2" href="$group___stm32f10x__it.html" title="This file wrap function to IRQ handler (MCU specific) " alt="" coords="139,56,237,83"/>
+<area shape="rect" id="node4" href="$group___h_w___config.html" title="This file defines a set of command to initialize the MCU. " alt="" coords="145,107,231,133"/>
+<area shape="rect" id="node5" href="$group___main.html" title="This file contains the entry point of this demonstration firmeware. " alt="" coords="163,157,213,184"/>
+</map>

@@ -1,0 +1,3 @@
+<map id="TIMER_DELAY_IRQ_HANDLER" name="TIMER_DELAY_IRQ_HANDLER">
+<area shape="rect" id="node2" href="$group___h_w___config___public___functions.html#ga72d9711f348443cc588bea9ffdf141c3" title="This function decrements the counter every millisecond used by the function delay_ms. " alt="" coords="262,5,383,32"/>
+</map>

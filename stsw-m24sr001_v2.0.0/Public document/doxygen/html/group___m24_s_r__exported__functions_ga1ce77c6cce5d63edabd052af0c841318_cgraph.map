@@ -1,0 +1,12 @@
+<map id="M24SR_StateControl" name="M24SR_StateControl">
+<area shape="rect" id="node2" href="$group___m24_s_r__exported__functions.html#ga63428445a966a3259057dbee93b6b92e" title="This function configure GPO purpose for I2C session. " alt="" coords="198,189,365,215"/>
+<area shape="rect" id="node5" href="$group___m24_s_r__exported__functions.html#ga2269a68db511321981370d3a46a2fa2b" title="This functions sends the command buffer. " alt="" coords="659,113,837,139"/>
+<area shape="rect" id="node6" href="$group___m24_s_r__exported__functions.html#ga55f46632c6c85f02402b1e6cdbf63153" title="This functions returns M24SR_STATUS_SUCCESS when a response is ready. " alt="" coords="667,239,829,266"/>
+<area shape="rect" id="node7" href="$group___m24_s_r__exported__functions.html#gac5912f2cd2d4f715c94cd9842d70cb42" title="This functions reads a response of the M24SR device. " alt="" coords="653,189,843,215"/>
+<area shape="rect" id="node3" href="$group___m24_s_r__exported__functions.html#ga4bb76aba4c8f1f10dd1a95c1ada9f24d" title="this functions configure I2C synchronization mode " alt="" coords="414,189,605,215"/>
+<area shape="rect" id="node4" href="$group___m24_s_r__exported__functions.html#ga9df2d4fbc09d240c00ef2ba796f83da8" title="This function sends the SelectApplication command. " alt="" coords="423,239,596,266"/>
+<area shape="rect" id="node8" href="$group___m24_s_r__exported__functions.html#gadf3a43cf64839b54d78db08bf3cdad1e" title="This function sends the SelectSystemFile command. " alt="" coords="424,290,595,317"/>
+<area shape="rect" id="node9" href="$group___m24_s_r__exported__functions.html#ga03a3eb4b42c1247403744ec89114152d" title="This function sends a read binary command. " alt="" coords="440,87,579,114"/>
+<area shape="rect" id="node10" href="$group___m24_s_r__exported__functions.html#gac2f0a88b5dabcca5e4c995b3309a6dd3" title="This function sends the Verify command. " alt="" coords="457,138,562,165"/>
+<area shape="rect" id="node11" href="$group___m24_s_r__exported__functions.html#ga36f646bb46d36223b5cc3742c92592ae" title="This function sends a Update binary command. " alt="" coords="434,37,585,63"/>
+</map>

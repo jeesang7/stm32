@@ -1,0 +1,5 @@
+<map id="M24SR_DisableVerificationRequirement" name="M24SR_DisableVerificationRequirement">
+<area shape="rect" id="node2" href="$group___m24_s_r__exported__functions.html#ga2269a68db511321981370d3a46a2fa2b" title="This functions sends the command buffer. " alt="" coords="237,5,416,32"/>
+<area shape="rect" id="node3" href="$group___m24_s_r__exported__functions.html#ga55f46632c6c85f02402b1e6cdbf63153" title="This functions returns M24SR_STATUS_SUCCESS when a response is ready. " alt="" coords="245,56,408,83"/>
+<area shape="rect" id="node4" href="$group___m24_s_r__exported__functions.html#gac5912f2cd2d4f715c94cd9842d70cb42" title="This functions reads a response of the M24SR device. " alt="" coords="232,107,421,133"/>
+</map>

@@ -1,0 +1,4 @@
+<map id="TT4_ReadVcard" name="TT4_ReadVcard">
+<area shape="rect" id="node2" href="$group__lib_n_d_e_f___public___functions.html#gaf9cc282b3c5368fda3bdbde17238e7fa" title="This fonction identify the NDEF message stored in tag. " alt="" coords="169,5,309,32"/>
+<area shape="rect" id="node3" href="$group__lib_vcard___public___functions.html#ga6de10e6add21f97757e13b8c28bf0e63" title="This fonction read NDEF and retrieve Vcard information if any. " alt="" coords="175,56,303,83"/>
+</map>

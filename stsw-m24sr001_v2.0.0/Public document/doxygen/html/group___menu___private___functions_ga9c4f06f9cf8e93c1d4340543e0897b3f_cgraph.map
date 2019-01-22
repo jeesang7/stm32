@@ -1,0 +1,11 @@
+<map id="EnableWritePWD" name="EnableWritePWD">
+<area shape="rect" id="node2" href="$group___h_w___config___public___functions.html#gae62813c68b42eca93264b974befeca1b" title="Get elapsed time since measurement launch. " alt="" coords="211,5,322,32"/>
+<area shape="rect" id="node3" href="$group__lib_password___public___functions.html#ga64ed87021b257c8c9be8fdcc03e30c68" title="This fonction activate the need of a password for next write access. " alt="" coords="179,56,354,83"/>
+<area shape="rect" id="node4" href="$group___menu___private___functions.html#gaf32e1b3b2b4532bdba396dfb61fedfcf" title="Screen config to inform user that M24SR is now locked with password. " alt="" coords="191,107,342,133"/>
+<area shape="rect" id="node5" href="$group___main___public___functions.html#gaf2b872e60e91b9a7e1c09b61232d4d55" title="Enables or disables EXTI for the menu navigation keys : " alt="" coords="403,5,528,32"/>
+<area shape="rect" id="node6" href="$group___menu___private___functions.html#ga844382748f7771f525da71306078f99b" title="Wait debounce key. " alt="" coords="412,56,519,83"/>
+<area shape="rect" id="node8" href="$group___menu___private___functions.html#ga089b85749295099d2d62b35e6d71c11b" title="convert a ASCII coding byte to it&#39;s representing char. " alt="" coords="426,107,505,133"/>
+<area shape="rect" id="node9" href="$group___menu___private___functions.html#ga206dfb9baec30fdc815efaf9f1cd0611" title="Wait user presses joystick. " alt="" coords="409,157,522,184"/>
+<area shape="rect" id="node10" href="$group___menu___private___functions.html#ga47c9959317df148b9c876d76da242cec" title="Displays the current menu. " alt="" coords="417,208,514,235"/>
+<area shape="rect" id="node7" href="$group___menu___private___functions.html#ga7c165bf58922e98896f715219d25d5cd" title="Reads key from demoboard. " alt="" coords="576,107,651,133"/>
+</map>

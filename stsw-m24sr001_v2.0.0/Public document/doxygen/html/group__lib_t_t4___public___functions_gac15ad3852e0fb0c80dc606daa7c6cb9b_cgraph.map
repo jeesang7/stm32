@@ -1,0 +1,4 @@
+<map id="TT4_ReadEmail" name="TT4_ReadEmail">
+<area shape="rect" id="node2" href="$group__lib_n_d_e_f___public___functions.html#gaf9cc282b3c5368fda3bdbde17238e7fa" title="This fonction identify the NDEF message stored in tag. " alt="" coords="169,5,309,32"/>
+<area shape="rect" id="node3" href="$group__lib_email___public___functions.html#ga980e42a18ee1196b830631401ff5542f" title="This fonction read NDEF and retrieve Eamil information if any. " alt="" coords="175,56,302,83"/>
+</map>

@@ -1,0 +1,38 @@
+<map id="C:/SVN/M24SR/trunk/Project/M24SR_Example/M24SR/M24SR_DISCOVERY_MB1138/inc/stm32f10x_it.h" name="C:/SVN/M24SR/trunk/Project/M24SR_Example/M24SR/M24SR_DISCOVERY_MB1138/inc/stm32f10x_it.h">
+<area shape="rect" id="node2" href="$hw__config_8h.html" title="Hardware Configuration &amp; Setup. " alt="" coords="1429,126,1627,197"/>
+<area shape="rect" id="node37" href="$menu_8h.html" title="This file contains all the functions prototypes for the menu navigation firmware driver. " alt="" coords="1651,126,1849,197"/>
+<area shape="rect" id="node3" href="$drv___i2_c___m24_s_r_8h.html" title="This file provides a set of functions needed to manage the I2C of the M24SR device. " alt="" coords="1257,253,1404,309"/>
+<area shape="rect" id="node35" href="$hw__config_8c.html" title="Hardware Configuration &amp; Setup of the MCU. " alt="" coords="1429,246,1627,317"/>
+<area shape="rect" id="node36" href="$stm32f10x__it_8c.html" title="Main Interrupt Service Routines. This file provides template for all exceptions handler and periphera..." alt="" coords="1651,246,1849,317"/>
+<area shape="rect" id="node4" href="$drv___m24_s_r_8h.html" title="This file provides a set of functions needed to manage M24SR. " alt="" coords="1168,365,1315,421"/>
+<area shape="rect" id="node34" href="$drv___i2_c___m24_s_r_8c.html" title="This file provides a set of functions needed to manage the I2C of the M24SR device. " alt="" coords="1339,365,1485,421"/>
+<area shape="rect" id="node5" href="$lib___m24_s_r_8h.html" title="This file help to manage Data inside M24SR. " alt="" coords="1039,469,1185,525"/>
+<area shape="rect" id="node33" href="$drv___m24_s_r_8c.html" title="This file provides a set of functions to interface with the M24SR device. " alt="" coords="1209,469,1356,525"/>
+<area shape="rect" id="node6" href="$lib__wrapper_8h.html" title="This file help to have upper layer independent from HW. " alt="" coords="888,573,1035,629"/>
+<area shape="rect" id="node32" href="$lib___m24_s_r_8c.html" title="This file help to manage M24SR in a NFC forum context. " alt="" coords="1059,573,1205,629"/>
+<area shape="rect" id="node7" href="$lib___n_d_e_f_8h.html" title="This file help to manage NDEF file. " alt="" coords="888,677,1035,733"/>
+<area shape="rect" id="node8" href="$lib___i_s_o7816___password_8h.html" title="This file help to manage password. " alt="" coords="1629,781,1800,837"/>
+<area shape="rect" id="node13" href="$lib___n_d_e_f___a_a_r_8h.html" title="This file help to manage AAR. " alt="" coords="909,781,1056,837"/>
+<area shape="rect" id="node17" href="$lib___n_d_e_f___email_8h.html" title="This file help to manage Email NDEF file. " alt="" coords="1080,781,1227,837"/>
+<area shape="rect" id="node19" href="$lib___n_d_e_f___geo_8h.html" title="This file help to manage Geolocation NDEF file. " alt="" coords="56,781,203,837"/>
+<area shape="rect" id="node21" href="$lib___n_d_e_f___my_app_8h.html" title="This file illustrate how to use M24SR with a proprietary protocol. " alt="" coords="227,781,373,837"/>
+<area shape="rect" id="node23" href="$lib___n_d_e_f___s_m_s_8h.html" title="This file help to manage SMS NDEF file. " alt="" coords="397,781,544,837"/>
+<area shape="rect" id="node25" href="$lib___n_d_e_f___u_r_i_8h.html" title="This file help to manage URI NDEF file. " alt="" coords="568,781,715,837"/>
+<area shape="rect" id="node27" href="$lib___n_d_e_f___vcard_8h.html" title="This file help to manage Vcard NDEF file. " alt="" coords="739,781,885,837"/>
+<area shape="rect" id="node29" href="$lib___s_t_proprietary__feature_8h.html" title="This file help to manage some special feature embedded by target. " alt="" coords="1422,781,1604,837"/>
+<area shape="rect" id="node31" href="$lib___n_d_e_f_8c.html" title="This file help to manage NDEF file, to parse and identify them. " alt="" coords="1251,781,1397,837"/>
+<area shape="rect" id="node9" href="$lib___i_s_o7816___password_8c.html" title="This file help to manage password in the ISO7816 context. " alt="" coords="1629,885,1800,941"/>
+<area shape="rect" id="node10" href="$main_8h.html" title="Header for main.c module. " alt="" coords="1511,990,1709,1061"/>
+<area shape="rect" id="node11" href="$main_8c.html" title="Main program body. " alt="" coords="1401,1110,1599,1181"/>
+<area shape="rect" id="node12" href="$menu_8c.html" title="Menu navigation driver for M24SR&#45;DISCOVERY demonstration. " alt="" coords="1623,1110,1821,1181"/>
+<area shape="rect" id="node14" href="$lib___tag_type4_8h.html" title="This file help to manage TagType4. " alt="" coords="517,885,664,941"/>
+<area shape="rect" id="node16" href="$lib___n_d_e_f___a_a_r_8c.html" title="This file help to add AAR to NDEF file. " alt="" coords="1029,885,1176,941"/>
+<area shape="rect" id="node15" href="$lib___tag_type4_8c.html" title="This file help to manage TagType4. " alt="" coords="517,997,664,1053"/>
+<area shape="rect" id="node18" href="$lib___n_d_e_f___email_8c.html" title="This file help to manage NDEF file that represent Email. " alt="" coords="1200,885,1347,941"/>
+<area shape="rect" id="node20" href="$lib___n_d_e_f___geo_8c.html" title="This file help to manage NDEF file that represent geolocation. " alt="" coords="5,885,152,941"/>
+<area shape="rect" id="node22" href="$lib___n_d_e_f___my_app_8c.html" title="This file help to manage the NDEF file of a private application. " alt="" coords="176,885,323,941"/>
+<area shape="rect" id="node24" href="$lib___n_d_e_f___s_m_s_8c.html" title="This file help to manage NDEF file that represent SMS. " alt="" coords="347,885,493,941"/>
+<area shape="rect" id="node26" href="$lib___n_d_e_f___u_r_i_8c.html" title="This file help to manage NDEF file that represent URI. " alt="" coords="688,885,835,941"/>
+<area shape="rect" id="node28" href="$lib___n_d_e_f___vcard_8c.html" title="This file help to manage NDEF file that represent Vcard. " alt="" coords="859,885,1005,941"/>
+<area shape="rect" id="node30" href="$lib___s_t_proprietary__feature_8c.html" title="This file help to manage some proprietary feature. " alt="" coords="1422,885,1604,941"/>
+</map>

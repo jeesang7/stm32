@@ -1,0 +1,4 @@
+var searchData=
+[
+  ['ndef_5fbuffer',['NDEF_Buffer',['../group__lib_n_f_c___f_o_r_u_m.html#gabc51d3aed4d50ec2ff74606af6ec3740',1,'NDEF_Buffer():&#160;lib_TagType4.c'],['../group__lib_n_f_c___f_o_r_u_m.html#gabc51d3aed4d50ec2ff74606af6ec3740',1,'NDEF_Buffer():&#160;lib_TagType4.c'],['../group__lib_n_f_c___f_o_r_u_m.html#gabc51d3aed4d50ec2ff74606af6ec3740',1,'NDEF_Buffer():&#160;lib_TagType4.c'],['../group__lib_n_f_c___f_o_r_u_m.html#gabc51d3aed4d50ec2ff74606af6ec3740',1,'NDEF_Buffer():&#160;lib_TagType4.c'],['../group__lib_n_f_c___f_o_r_u_m.html#gabc51d3aed4d50ec2ff74606af6ec3740',1,'NDEF_Buffer():&#160;lib_TagType4.c'],['../group__lib_n_f_c___f_o_r_u_m.html#gabc51d3aed4d50ec2ff74606af6ec3740',1,'NDEF_Buffer():&#160;lib_TagType4.c'],['../group__lib_n_f_c___f_o_r_u_m.html#gabc51d3aed4d50ec2ff74606af6ec3740',1,'NDEF_Buffer():&#160;lib_TagType4.c'],['../group__lib_n_f_c___f_o_r_u_m.html#gabc51d3aed4d50ec2ff74606af6ec3740',1,'NDEF_Buffer():&#160;lib_TagType4.c']]]
+];

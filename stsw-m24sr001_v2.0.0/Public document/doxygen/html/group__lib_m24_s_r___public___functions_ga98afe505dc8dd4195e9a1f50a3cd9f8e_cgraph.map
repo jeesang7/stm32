@@ -1,0 +1,9 @@
+<map id="M24SR_DisableWriteOnly" name="M24SR_DisableWriteOnly">
+<area shape="rect" id="node2" href="$group__drv_m24_s_r___public___functions.html#gac2f0a88b5dabcca5e4c995b3309a6dd3" title="This function sends the Verify command. " alt="" coords="279,5,385,32"/>
+<area shape="rect" id="node7" href="$group__drv_m24_s_r___public___functions.html#ga37110d0ed6200d3b56ace38c8217c5a7" title="This function sends the DisablePermanentState command. " alt="" coords="227,56,437,83"/>
+<area shape="rect" id="node8" href="$group__drv_m24_s_r___public___functions.html#ga60ba6713b43a21a52a192def20c42a1a" title="This function sends the DisableVerificationRequirement command. " alt="" coords="243,107,421,149"/>
+<area shape="rect" id="node3" href="$group___m24_s_r___i2_c___public___functions.html#ga2269a68db511321981370d3a46a2fa2b" title="This functions sends the command buffer. " alt="" coords="491,5,669,32"/>
+<area shape="rect" id="node4" href="$group___m24_s_r___i2_c___public___functions.html#ga55f46632c6c85f02402b1e6cdbf63153" title="This functions returns M24SR_STATUS_SUCCESS when a response is ready. " alt="" coords="499,56,661,83"/>
+<area shape="rect" id="node6" href="$group___m24_s_r___i2_c___public___functions.html#gac5912f2cd2d4f715c94cd9842d70cb42" title="This functions reads a response of the M24SR device. " alt="" coords="485,107,675,133"/>
+<area shape="rect" id="node5" href="$group___m24_s_r___i2_c___private___functions.html#gab27f50717fcd6854fa5562fefaeb472d" title="This functions polls the I2C interface. " alt="" coords="723,56,837,83"/>
+</map>

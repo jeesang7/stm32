@@ -1,0 +1,9 @@
+<map id="DisableWritePWD" name="DisableWritePWD">
+<area shape="rect" id="node2" href="$group__lib_password___public___functions.html#ga467f58738ef19100475485929ccffcaf" title="This fonction desactivate the need of a password for next write access. " alt="" coords="181,31,360,57"/>
+<area shape="rect" id="node3" href="$group___menu___private___functions.html#ga52231aae007aab45a71cf59f96ec3ccd" title="Screen config to inform user that M24SR is now unlocked. " alt="" coords="187,81,354,108"/>
+<area shape="rect" id="node4" href="$group___main___public___functions.html#gaf2b872e60e91b9a7e1c09b61232d4d55" title="Enables or disables EXTI for the menu navigation keys : " alt="" coords="408,5,533,32"/>
+<area shape="rect" id="node5" href="$group___menu___private___functions.html#ga844382748f7771f525da71306078f99b" title="Wait debounce key. " alt="" coords="417,56,524,83"/>
+<area shape="rect" id="node7" href="$group___menu___private___functions.html#ga206dfb9baec30fdc815efaf9f1cd0611" title="Wait user presses joystick. " alt="" coords="414,107,527,133"/>
+<area shape="rect" id="node8" href="$group___menu___private___functions.html#ga47c9959317df148b9c876d76da242cec" title="Displays the current menu. " alt="" coords="422,157,519,184"/>
+<area shape="rect" id="node6" href="$group___menu___private___functions.html#ga7c165bf58922e98896f715219d25d5cd" title="Reads key from demoboard. " alt="" coords="581,81,656,108"/>
+</map>

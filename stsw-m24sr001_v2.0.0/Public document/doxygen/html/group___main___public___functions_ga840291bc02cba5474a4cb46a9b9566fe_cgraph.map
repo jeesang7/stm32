@@ -1,0 +1,27 @@
+<map id="main" name="main">
+<area shape="rect" id="node2" href="$group___h_w___config___public___functions.html#gac19346569a93636cf6c328d9c6b23671" title="Configures the interrupts. " alt="" coords="121,5,239,32"/>
+<area shape="rect" id="node3" href="$group___h_w___config___public___functions.html#ga3c15420197589e14aa4da4b880a8005f" title="This function configures the Timers. " alt="" coords="131,56,229,83"/>
+<area shape="rect" id="node6" href="$group___main___public___functions.html#ga54b9c153170b49545c7da9508e8466a7" title="Configure a SysTick Base time to 10 ms. " alt="" coords="105,107,255,133"/>
+<area shape="rect" id="node7" href="$group___menu___public___functions.html#ga6c94950188315816572f8691daeb2c3a" title="Initialize GPIO mapping of joystick. " alt="" coords="137,157,223,184"/>
+<area shape="rect" id="node8" href="$group___main___private___functions.html#gae06e96428fb72d120e326bd2b1ed2da3" title="initialize Led state. " alt="" coords="145,208,215,235"/>
+<area shape="rect" id="node9" href="$group___main___private___functions.html#ga5f5c75e8b9c12a23982f1e8972bbde07" title="all the Leds will switch on/off " alt="" coords="137,259,223,285"/>
+<area shape="rect" id="node12" href="$group___menu___public___functions.html#ga99e0cc71a130451c823ba183dfdffae2" title="Display the ST introduction. " alt="" coords="149,309,211,336"/>
+<area shape="rect" id="node13" href="$group__lib_t_t4___public___functions.html#ga282ca6d32a050f51ae59664a8b0694ef" title="This fonction initialize Tag Type 4. " alt="" coords="147,360,213,387"/>
+<area shape="rect" id="node14" href="$group___main___private___functions.html#ga773e1f429b493c4068ade9d07fb88c97" title="Initializes the M24SR for demonstration application. " alt="" coords="119,411,241,437"/>
+<area shape="rect" id="node16" href="$group__drv_m24_s_r___public___functions.html#gaec3b5abad437601443f2340a082ba48e" title="This function enable or disable RF communication. " alt="" coords="117,461,243,488"/>
+<area shape="rect" id="node17" href="$group___h_w___config___public___functions.html#gac4df069e341603084c1517f554c8e391" title="Launch a timer to perform timing measurement. " alt="" coords="104,512,256,539"/>
+<area shape="rect" id="node19" href="$group___menu___public___functions.html#ga19356b9996c705f2a70cf37077cdd6f6" title="Show the main menu icon. " alt="" coords="121,639,239,665"/>
+<area shape="rect" id="node20" href="$group___main___public___functions.html#gaf2b872e60e91b9a7e1c09b61232d4d55" title="Enables or disables EXTI for the menu navigation keys : " alt="" coords="339,537,464,564"/>
+<area shape="rect" id="node25" href="$group___menu___public___functions.html#ga5cbbbebc26eabd54da7c1cc56c331875" title="This function is executed when &quot;SEL&quot; push&#45;button is pressed. " alt="" coords="366,791,437,817"/>
+<area shape="rect" id="node4" href="$group___h_w___config___public___functions.html#ga48a23fdb9aa900d66bd766e83d216111" title="This function configures RCC for the Timers. " alt="" coords="336,31,467,57"/>
+<area shape="rect" id="node5" href="$group___h_w___config___public___functions.html#gab622cc7061bd0cb6095d71fd229c84cd" title="Structure configuration for the Timers. " alt="" coords="323,81,480,108"/>
+<area shape="rect" id="node10" href="$group___h_w___config___public___functions.html#gabfa9cb3f1aa93cec2b6d07beaf6d2355" title="Time delay in millisecond. " alt="" coords="362,259,441,285"/>
+<area shape="rect" id="node11" href="$group___h_w___config___private___functions.html#gac18fa1b605e7e1c2d3830c26b7b45408" title="Structure configuration for the Timer2 in ms. " alt="" coords="547,259,701,285"/>
+<area shape="rect" id="node15" href="$group__lib_password___public___functions.html#ga6bea166cf434e23bddfc1e9d9015796b" title="This fonction desactivate the need of read and write password for next access. " alt="" coords="304,411,499,437"/>
+<area shape="rect" id="node18" href="$group___h_w___config___private___functions.html#ga7d99cf2eca22ee4614231872f829a3ff" title="Structure configuration for the Timer2 in us. " alt="" coords="310,487,493,513"/>
+<area shape="rect" id="node21" href="$group___menu___private___functions.html#ga844382748f7771f525da71306078f99b" title="Wait debounce key. " alt="" coords="348,588,455,615"/>
+<area shape="rect" id="node22" href="$group___menu___private___functions.html#ga7c165bf58922e98896f715219d25d5cd" title="Reads key from demoboard. " alt="" coords="587,613,661,640"/>
+<area shape="rect" id="node23" href="$group___menu___private___functions.html#ga54dc87c7c637a2d65ca6eefb246650d3" title="Initializes the navigation menu. " alt="" coords="362,689,441,716"/>
+<area shape="rect" id="node24" href="$group___menu___private___functions.html#gaacbe3ea55e4880b54a19bf0b269e3ae5" title="Display menu icons. " alt="" coords="353,740,449,767"/>
+<area shape="rect" id="node26" href="$group___menu___private___functions.html#ga47c9959317df148b9c876d76da242cec" title="Displays the current menu. " alt="" coords="575,791,673,817"/>
+</map>

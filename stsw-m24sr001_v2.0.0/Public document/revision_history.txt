@@ -1,0 +1,31 @@
+/**
+  ******************************************************************************
+  * @file    Revision history of M24SR-DISCOVERY firmware 
+  * @author  MMY Application Team
+  * @version V1.2.0
+  * @date    07/03/2014
+  * @brief   This firmware demonstrate benefit of M24SR dynamic tag
+  * @brief   different use case are available to illustrate the possibilities
+  ******************************************************************************
+  *
+***/
+
+This firmware has been developped on M24SR-DISCOVERY board by using uvision 4.0 (Keil).
+It is based on STM32F10x_StdPeriph_Lib_V3.5.0 
+1.1.0 : first official release
+
+1.1.1 : Code cleaning mainly for doxygen documentation
+
+1.2.0 : Fix Bug in function M24SR_FWTExtension, the buffer was not well dimensioned to receive the M24SR response (missing one byte).
+				Change line uint8_t pBuffer[0x04]; by uint8_t pBuffer[M24SR_STATUSRESPONSE_NBBYTE];
+				
+				As GPO is linked to HW, the M24SR_RFConfig_Hard has been created in file drv_I2C_M24SR.c as modification to this function must be done when driver is porting on another plateform
+
+				Add STM32F4 support based on STM32F4xx_StdPeriph_Lib_v1.3.0, all difference are under compile flag "STM32F40_41xxx"
+				
+				Doxygen documentation modified to explain how to switch from F1 to F4 on M24SR-DISCOVERY board
+				
+1.3.0 : Delete delay approximation in GetSession and KillSession function by adding I2C polling
+
+
+				

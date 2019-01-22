@@ -1,0 +1,9 @@
+<map id="EnableReadOnlyMode" name="EnableReadOnlyMode">
+<area shape="rect" id="node2" href="$group__lib_special_feature___public___functions.html#ga745fe77bae9076201e2ed3989f11b41c" title="This fonction enable read only mode. " alt="" coords="205,31,411,57"/>
+<area shape="rect" id="node3" href="$group___menu___private___functions.html#gab274425be93bb16866523ea74b8d976b" title="Screen config to inform user that M24SR is still or no more locked. " alt="" coords="235,81,381,108"/>
+<area shape="rect" id="node4" href="$group___main___public___functions.html#gaf2b872e60e91b9a7e1c09b61232d4d55" title="Enables or disables EXTI for the menu navigation keys : " alt="" coords="459,5,584,32"/>
+<area shape="rect" id="node5" href="$group___menu___private___functions.html#ga844382748f7771f525da71306078f99b" title="Wait debounce key. " alt="" coords="468,56,575,83"/>
+<area shape="rect" id="node7" href="$group___menu___private___functions.html#ga206dfb9baec30fdc815efaf9f1cd0611" title="Wait user presses joystick. " alt="" coords="465,107,578,133"/>
+<area shape="rect" id="node8" href="$group___menu___private___functions.html#ga47c9959317df148b9c876d76da242cec" title="Displays the current menu. " alt="" coords="473,157,570,184"/>
+<area shape="rect" id="node6" href="$group___menu___private___functions.html#ga7c165bf58922e98896f715219d25d5cd" title="Reads key from demoboard. " alt="" coords="632,81,707,108"/>
+</map>

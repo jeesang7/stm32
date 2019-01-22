@@ -1,0 +1,23 @@
+<map id="C:/SVN/M24SR/trunk/Libraries/M24SR/inc/lib_NDEF.h" name="C:/SVN/M24SR/trunk/Libraries/M24SR/inc/lib_NDEF.h">
+<area shape="rect" id="node2" href="$lib___i_s_o7816___password_8h.html" title="This file help to manage password. " alt="" coords="48,109,219,165"/>
+<area shape="rect" id="node4" href="$lib___n_d_e_f___a_a_r_8h.html" title="This file help to manage AAR. " alt="" coords="1352,109,1499,165"/>
+<area shape="rect" id="node8" href="$lib___n_d_e_f___email_8h.html" title="This file help to manage Email NDEF file. " alt="" coords="328,109,475,165"/>
+<area shape="rect" id="node10" href="$lib___n_d_e_f___geo_8h.html" title="This file help to manage Geolocation NDEF file. " alt="" coords="499,109,645,165"/>
+<area shape="rect" id="node12" href="$lib___n_d_e_f___my_app_8h.html" title="This file illustrate how to use M24SR with a proprietary protocol. " alt="" coords="669,109,816,165"/>
+<area shape="rect" id="node14" href="$lib___n_d_e_f___s_m_s_8h.html" title="This file help to manage SMS NDEF file. " alt="" coords="840,109,987,165"/>
+<area shape="rect" id="node16" href="$lib___n_d_e_f___u_r_i_8h.html" title="This file help to manage URI NDEF file. " alt="" coords="1011,109,1157,165"/>
+<area shape="rect" id="node18" href="$lib___n_d_e_f___vcard_8h.html" title="This file help to manage Vcard NDEF file. " alt="" coords="1181,109,1328,165"/>
+<area shape="rect" id="node20" href="$lib___s_t_proprietary__feature_8h.html" title="This file help to manage some special feature embedded by target. " alt="" coords="1523,109,1705,165"/>
+<area shape="rect" id="node22" href="$lib___n_d_e_f_8c.html" title="This file help to manage NDEF file, to parse and identify them. " alt="" coords="1731,109,1877,165"/>
+<area shape="rect" id="node3" href="$lib___i_s_o7816___password_8c.html" title="This file help to manage password in the ISO7816 context. " alt="" coords="5,213,176,269"/>
+<area shape="rect" id="node5" href="$lib___tag_type4_8h.html" title="This file help to manage TagType4. " alt="" coords="712,213,859,269"/>
+<area shape="rect" id="node7" href="$lib___n_d_e_f___a_a_r_8c.html" title="This file help to add AAR to NDEF file. " alt="" coords="1395,213,1541,269"/>
+<area shape="rect" id="node6" href="$lib___tag_type4_8c.html" title="This file help to manage TagType4. " alt="" coords="712,317,859,373"/>
+<area shape="rect" id="node9" href="$lib___n_d_e_f___email_8c.html" title="This file help to manage NDEF file that represent Email. " alt="" coords="200,213,347,269"/>
+<area shape="rect" id="node11" href="$lib___n_d_e_f___geo_8c.html" title="This file help to manage NDEF file that represent geolocation. " alt="" coords="371,213,517,269"/>
+<area shape="rect" id="node13" href="$lib___n_d_e_f___my_app_8c.html" title="This file help to manage the NDEF file of a private application. " alt="" coords="541,213,688,269"/>
+<area shape="rect" id="node15" href="$lib___n_d_e_f___s_m_s_8c.html" title="This file help to manage NDEF file that represent SMS. " alt="" coords="883,213,1029,269"/>
+<area shape="rect" id="node17" href="$lib___n_d_e_f___u_r_i_8c.html" title="This file help to manage NDEF file that represent URI. " alt="" coords="1053,213,1200,269"/>
+<area shape="rect" id="node19" href="$lib___n_d_e_f___vcard_8c.html" title="This file help to manage NDEF file that represent Vcard. " alt="" coords="1224,213,1371,269"/>
+<area shape="rect" id="node21" href="$lib___s_t_proprietary__feature_8c.html" title="This file help to manage some proprietary feature. " alt="" coords="1566,213,1748,269"/>
+</map>

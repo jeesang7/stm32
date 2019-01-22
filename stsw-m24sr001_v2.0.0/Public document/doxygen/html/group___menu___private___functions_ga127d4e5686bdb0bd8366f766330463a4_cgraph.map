@@ -1,0 +1,21 @@
+<map id="ReadVcard" name="ReadVcard">
+<area shape="rect" id="node2" href="$group__lib_t_t4___public___functions.html#gaca61fc71a3b105d556f298afadab8ce3" title="This fonction read NDEF file if NDEF is identified as Vcard. " alt="" coords="141,157,256,184"/>
+<area shape="rect" id="node15" href="$group___menu___private___functions.html#gaab1f756c516f00baf2e640c7008463e4" title="Screen config to display Vcard information. " alt="" coords="149,259,248,285"/>
+<area shape="rect" id="node3" href="$group__lib_n_d_e_f___public___functions.html#gaf9cc282b3c5368fda3bdbde17238e7fa" title="This fonction identify the NDEF message stored in tag. " alt="" coords="305,107,445,133"/>
+<area shape="rect" id="node12" href="$group__lib_vcard___public___functions.html#ga6de10e6add21f97757e13b8c28bf0e63" title="This fonction read NDEF and retrieve Vcard information if any. " alt="" coords="311,157,439,184"/>
+<area shape="rect" id="node4" href="$group__lib_n_d_e_f___private___functions.html#ga6b9d1514e140ec02c363f61aa5a066f0" title="This fonction check that the tag contain a NDEF message. " alt="" coords="507,56,661,83"/>
+<area shape="rect" id="node5" href="$group__lib_n_d_e_f___private___functions.html#gab8ac8043119e15bbadf4f28cfeaa9c71" title="This fonction parse the record header and dispatch regarding TNF value. " alt="" coords="494,107,674,133"/>
+<area shape="rect" id="node6" href="$group__lib_n_d_e_f___private___functions.html#gafcf4345bd0e7c903539f2f83c0a150be" title="This fonction parse the Well Known type record. " alt="" coords="733,5,923,32"/>
+<area shape="rect" id="node10" href="$group__lib_n_d_e_f___private___functions.html#gab1b9824f7c776a201ef8c434493fe53a" title="This fonction parse the Media type record. " alt="" coords="747,56,909,83"/>
+<area shape="rect" id="node11" href="$group__lib_n_d_e_f___private___functions.html#ga10f7a79f73cca019aa6b41e44038bf8f" title="This fonction parse the Forum External type record. " alt="" coords="723,107,933,133"/>
+<area shape="rect" id="node7" href="$group__lib_n_d_e_f___private___functions.html#gab29777f53b5470c309a2d45f8b94dfd1" title="This fonction parse the Smart Poster. " alt="" coords="983,5,1099,32"/>
+<area shape="rect" id="node9" href="$group__lib_n_d_e_f___private___functions.html#gac140356be51161ce954520e7e7341926" title="This fonction parse the URI type record. " alt="" coords="982,56,1101,83"/>
+<area shape="rect" id="node8" href="$group__lib_n_d_e_f___private___functions.html#ga12ab4e4fb32b4907d5ab7a0c87b34999" title="This fonction identify the type of record. " alt="" coords="1150,81,1314,108"/>
+<area shape="rect" id="node13" href="$group__lib_vcard___private___functions.html#ga798ecaeb88de820f1159debd4953816c" title="This fonction read the Vcard and store data in a structure. " alt="" coords="514,183,654,209"/>
+<area shape="rect" id="node14" href="$group__lib_vcard___private___functions.html#ga9e2e7979fb5db6794f8e4615b5f620f3" title="This fonction fill Vcard structure with information of NDEF message. " alt="" coords="753,208,903,235"/>
+<area shape="rect" id="node16" href="$group___main___public___functions.html#gaf2b872e60e91b9a7e1c09b61232d4d55" title="Enables or disables EXTI for the menu navigation keys : " alt="" coords="312,208,437,235"/>
+<area shape="rect" id="node17" href="$group___menu___private___functions.html#ga844382748f7771f525da71306078f99b" title="Wait debounce key. " alt="" coords="321,259,428,285"/>
+<area shape="rect" id="node19" href="$group___menu___private___functions.html#ga206dfb9baec30fdc815efaf9f1cd0611" title="Wait user presses joystick. " alt="" coords="318,309,431,336"/>
+<area shape="rect" id="node20" href="$group___menu___private___functions.html#ga47c9959317df148b9c876d76da242cec" title="Displays the current menu. " alt="" coords="326,360,423,387"/>
+<area shape="rect" id="node18" href="$group___menu___private___functions.html#ga7c165bf58922e98896f715219d25d5cd" title="Reads key from demoboard. " alt="" coords="547,284,621,311"/>
+</map>

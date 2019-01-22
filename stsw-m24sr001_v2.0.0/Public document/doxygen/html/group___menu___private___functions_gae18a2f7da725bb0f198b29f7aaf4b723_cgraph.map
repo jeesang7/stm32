@@ -1,0 +1,11 @@
+<map id="WriteVcard" name="WriteVcard">
+<area shape="rect" id="node2" href="$group___menu___private___functions.html#ga0cdb2cb295110d037c4184c61a78ec50" title="Screen config to warn user that content is being stored in M24SR. " alt="" coords="142,5,311,32"/>
+<area shape="rect" id="node3" href="$group__lib_t_t4___public___functions.html#ga6ade8a07fabd6dacc36b9261add8833d" title="This fonction write NDEF file. " alt="" coords="169,56,285,83"/>
+<area shape="rect" id="node5" href="$group___menu___private___functions.html#ga688a0af4cfd454ffa92682000b5314eb" title="Screen config to inform user that content has been stored in M24SR. " alt="" coords="167,107,286,133"/>
+<area shape="rect" id="node10" href="$group___menu___private___functions.html#ga01dd75c2c15348ac22e6a17eb94966b5" title="Screen config to warn user that content has not been stored in M24SR. " alt="" coords="153,157,300,184"/>
+<area shape="rect" id="node4" href="$group__lib_n_d_e_f___public___functions.html#gac9298bb7c6cb703a0116f8416966492b" title="This fonction write the NDEF in the TAG. " alt="" coords="360,56,491,83"/>
+<area shape="rect" id="node6" href="$group___main___public___functions.html#gaf2b872e60e91b9a7e1c09b61232d4d55" title="Enables or disables EXTI for the menu navigation keys : " alt="" coords="363,107,488,133"/>
+<area shape="rect" id="node7" href="$group___menu___private___functions.html#ga206dfb9baec30fdc815efaf9f1cd0611" title="Wait user presses joystick. " alt="" coords="369,157,482,184"/>
+<area shape="rect" id="node9" href="$group___menu___private___functions.html#ga47c9959317df148b9c876d76da242cec" title="Displays the current menu. " alt="" coords="377,208,474,235"/>
+<area shape="rect" id="node8" href="$group___menu___private___functions.html#ga7c165bf58922e98896f715219d25d5cd" title="Reads key from demoboard. " alt="" coords="539,157,613,184"/>
+</map>

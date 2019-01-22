@@ -1,0 +1,21 @@
+<map id="ReadEmail" name="ReadEmail">
+<area shape="rect" id="node2" href="$group__lib_t_t4___public___functions.html#gac15ad3852e0fb0c80dc606daa7c6cb9b" title="This fonction read NDEF file if NDEF is identified as eMail. " alt="" coords="139,56,253,83"/>
+<area shape="rect" id="node15" href="$group___menu___private___functions.html#gacdee286509e628033898c0bc31cca2a7" title="Screen config to display Email information. " alt="" coords="147,259,245,285"/>
+<area shape="rect" id="node16" href="$group___main___public___functions.html#gaf2b872e60e91b9a7e1c09b61232d4d55" title="Enables or disables EXTI for the menu navigation keys : " alt="" coords="309,157,435,184"/>
+<area shape="rect" id="node17" href="$group___menu___private___functions.html#ga844382748f7771f525da71306078f99b" title="Wait debounce key. " alt="" coords="319,208,425,235"/>
+<area shape="rect" id="node19" href="$group___menu___private___functions.html#ga47c9959317df148b9c876d76da242cec" title="Displays the current menu. " alt="" coords="323,309,421,336"/>
+<area shape="rect" id="node20" href="$group___menu___private___functions.html#ga206dfb9baec30fdc815efaf9f1cd0611" title="Wait user presses joystick. " alt="" coords="139,107,253,133"/>
+<area shape="rect" id="node3" href="$group__lib_n_d_e_f___public___functions.html#gaf9cc282b3c5368fda3bdbde17238e7fa" title="This fonction identify the NDEF message stored in tag. " alt="" coords="302,56,442,83"/>
+<area shape="rect" id="node12" href="$group__lib_email___public___functions.html#ga980e42a18ee1196b830631401ff5542f" title="This fonction read NDEF and retrieve Eamil information if any. " alt="" coords="309,5,435,32"/>
+<area shape="rect" id="node4" href="$group__lib_n_d_e_f___private___functions.html#ga6b9d1514e140ec02c363f61aa5a066f0" title="This fonction check that the tag contain a NDEF message. " alt="" coords="504,56,659,83"/>
+<area shape="rect" id="node5" href="$group__lib_n_d_e_f___private___functions.html#gab8ac8043119e15bbadf4f28cfeaa9c71" title="This fonction parse the record header and dispatch regarding TNF value. " alt="" coords="491,107,671,133"/>
+<area shape="rect" id="node6" href="$group__lib_n_d_e_f___private___functions.html#gafcf4345bd0e7c903539f2f83c0a150be" title="This fonction parse the Well Known type record. " alt="" coords="730,157,921,184"/>
+<area shape="rect" id="node10" href="$group__lib_n_d_e_f___private___functions.html#gab1b9824f7c776a201ef8c434493fe53a" title="This fonction parse the Media type record. " alt="" coords="745,208,906,235"/>
+<area shape="rect" id="node11" href="$group__lib_n_d_e_f___private___functions.html#ga10f7a79f73cca019aa6b41e44038bf8f" title="This fonction parse the Forum External type record. " alt="" coords="720,56,931,83"/>
+<area shape="rect" id="node7" href="$group__lib_n_d_e_f___private___functions.html#gab29777f53b5470c309a2d45f8b94dfd1" title="This fonction parse the Smart Poster. " alt="" coords="981,208,1097,235"/>
+<area shape="rect" id="node9" href="$group__lib_n_d_e_f___private___functions.html#gac140356be51161ce954520e7e7341926" title="This fonction parse the URI type record. " alt="" coords="979,157,1098,184"/>
+<area shape="rect" id="node8" href="$group__lib_n_d_e_f___private___functions.html#ga12ab4e4fb32b4907d5ab7a0c87b34999" title="This fonction identify the type of record. " alt="" coords="1147,157,1311,184"/>
+<area shape="rect" id="node13" href="$group__lib_email___private___functions.html#ga4c1d797047131e05b65a5e54ded0ac6d" title="This fonction read the Email and store data in a structure. " alt="" coords="504,5,659,32"/>
+<area shape="rect" id="node14" href="$group__lib_email___private___functions.html#ga5c06dace7ddd2c058033805e5dfc0499" title="This fonction fill Email structure with information of NDEF message. " alt="" coords="751,5,900,32"/>
+<area shape="rect" id="node18" href="$group___menu___private___functions.html#ga7c165bf58922e98896f715219d25d5cd" title="Reads key from demoboard. " alt="" coords="544,208,619,235"/>
+</map>

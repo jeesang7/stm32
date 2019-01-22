@@ -1,0 +1,14 @@
+<map id="C:/SVN/M24SR/trunk/Libraries/M24SR/inc/lib_TagType4.h" name="C:/SVN/M24SR/trunk/Libraries/M24SR/inc/lib_TagType4.h">
+<area shape="rect" id="node2" href="$lib___n_d_e_f___u_r_i_8h.html" title="This file help to manage URI NDEF file. " alt="" coords="5,109,120,136"/>
+<area shape="rect" id="node9" href="$lib___n_d_e_f___s_m_s_8h.html" title="This file help to manage SMS NDEF file. " alt="" coords="145,109,268,136"/>
+<area shape="rect" id="node10" href="$lib___n_d_e_f___email_8h.html" title="This file help to manage Email NDEF file. " alt="" coords="293,109,421,136"/>
+<area shape="rect" id="node11" href="$lib___n_d_e_f___vcard_8h.html" title="This file help to manage Vcard NDEF file. " alt="" coords="446,109,575,136"/>
+<area shape="rect" id="node12" href="$lib___n_d_e_f___geo_8h.html" title="This file help to manage Geolocation NDEF file. " alt="" coords="599,109,717,136"/>
+<area shape="rect" id="node13" href="$lib___n_d_e_f___my_app_8h.html" title="This file illustrate how to use M24SR with a proprietary protocol. " alt="" coords="743,109,879,136"/>
+<area shape="rect" id="node14" href="$lib___n_d_e_f___a_a_r_8h.html" title="This file help to manage AAR. " alt="" coords="903,109,1025,136"/>
+<area shape="rect" id="node3" href="$lib___n_d_e_f_8h.html" title="This file help to manage NDEF file. " alt="" coords="467,184,555,211"/>
+<area shape="rect" id="node4" href="$lib__wrapper_8h.html" title="This file help to have upper layer independent from HW. " alt="" coords="461,259,560,285"/>
+<area shape="rect" id="node5" href="$lib___m24_s_r_8h.html" title="This file help to manage Data inside M24SR. " alt="" coords="463,333,559,360"/>
+<area shape="rect" id="node6" href="$drv___m24_s_r_8h.html" title="This file provides a set of functions needed to manage M24SR. " alt="" coords="461,408,560,435"/>
+<area shape="rect" id="node7" href="$drv___i2_c___m24_s_r_8h.html" title="This file provides a set of functions needed to manage the I2C of the M24SR device. " alt="" coords="448,483,573,509"/>
+</map>

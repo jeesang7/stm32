@@ -1,0 +1,6 @@
+<map id="DisplaySMS" name="DisplaySMS">
+<area shape="rect" id="node2" href="$group___main___public___functions.html#gaf2b872e60e91b9a7e1c09b61232d4d55" title="Enables or disables EXTI for the menu navigation keys : " alt="" coords="149,5,275,32"/>
+<area shape="rect" id="node3" href="$group___menu___private___functions.html#ga844382748f7771f525da71306078f99b" title="Wait debounce key. " alt="" coords="159,56,265,83"/>
+<area shape="rect" id="node4" href="$group___menu___private___functions.html#ga7c165bf58922e98896f715219d25d5cd" title="Reads key from demoboard. " alt="" coords="323,81,397,108"/>
+<area shape="rect" id="node5" href="$group___menu___private___functions.html#ga47c9959317df148b9c876d76da242cec" title="Displays the current menu. " alt="" coords="163,157,261,184"/>
+</map>

@@ -1,0 +1,12 @@
+<map id="DWLoadPhoneApp" name="DWLoadPhoneApp">
+<area shape="rect" id="node2" href="$group__lib_t_t4___public___functions.html#ga6ade8a07fabd6dacc36b9261add8833d" title="This fonction write NDEF file. " alt="" coords="234,5,350,32"/>
+<area shape="rect" id="node4" href="$group__lib_t_t4___public___functions.html#ga21570387abbe2995e2a2b97fa921032e" title="This fonction add AAR (Android Application Record) in the tag. " alt="" coords="242,56,342,83"/>
+<area shape="rect" id="node6" href="$group___menu___private___functions.html#ga97c23c2616530d05671874ccdc8981bb" title="Screen config to inform user that AAR message has been stored in M24SR. " alt="" coords="187,107,397,133"/>
+<area shape="rect" id="node11" href="$group___menu___private___functions.html#ga01dd75c2c15348ac22e6a17eb94966b5" title="Screen config to warn user that content has not been stored in M24SR. " alt="" coords="219,157,365,184"/>
+<area shape="rect" id="node3" href="$group__lib_n_d_e_f___public___functions.html#gac9298bb7c6cb703a0116f8416966492b" title="This fonction write the NDEF in the TAG. " alt="" coords="445,5,576,32"/>
+<area shape="rect" id="node5" href="$group__lib_a_a_r___public___functions.html#ga6b345615052c6418a45e9bda44c77b1b" title="This fonction add AAR (Android Application Record) in the tag. " alt="" coords="453,56,568,83"/>
+<area shape="rect" id="node7" href="$group___main___public___functions.html#gaf2b872e60e91b9a7e1c09b61232d4d55" title="Enables or disables EXTI for the menu navigation keys : " alt="" coords="448,107,573,133"/>
+<area shape="rect" id="node8" href="$group___menu___private___functions.html#ga206dfb9baec30fdc815efaf9f1cd0611" title="Wait user presses joystick. " alt="" coords="454,157,567,184"/>
+<area shape="rect" id="node10" href="$group___menu___private___functions.html#ga47c9959317df148b9c876d76da242cec" title="Displays the current menu. " alt="" coords="462,208,559,235"/>
+<area shape="rect" id="node9" href="$group___menu___private___functions.html#ga7c165bf58922e98896f715219d25d5cd" title="Reads key from demoboard. " alt="" coords="624,157,699,184"/>
+</map>

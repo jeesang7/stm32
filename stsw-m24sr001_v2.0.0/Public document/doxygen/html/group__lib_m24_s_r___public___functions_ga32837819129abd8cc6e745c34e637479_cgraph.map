@@ -1,0 +1,9 @@
+<map id="M24SR_EnableReadPassword" name="M24SR_EnableReadPassword">
+<area shape="rect" id="node2" href="$group__drv_m24_s_r___public___functions.html#gac2f0a88b5dabcca5e4c995b3309a6dd3" title="This function sends the Verify command. " alt="" coords="302,5,407,32"/>
+<area shape="rect" id="node7" href="$group__drv_m24_s_r___public___functions.html#ga4c60e51f66083dc81fe6059094f4f17a" title="This function sends the ChangeReferenceData command. " alt="" coords="254,56,455,83"/>
+<area shape="rect" id="node8" href="$group__drv_m24_s_r___public___functions.html#ga6063d3a14881c1687c380f1af8edff26" title="This function sends the EnableVerificationRequirement command. " alt="" coords="267,107,443,149"/>
+<area shape="rect" id="node3" href="$group___m24_s_r___i2_c___public___functions.html#ga2269a68db511321981370d3a46a2fa2b" title="This functions sends the command buffer. " alt="" coords="509,5,688,32"/>
+<area shape="rect" id="node4" href="$group___m24_s_r___i2_c___public___functions.html#ga55f46632c6c85f02402b1e6cdbf63153" title="This functions returns M24SR_STATUS_SUCCESS when a response is ready. " alt="" coords="517,56,680,83"/>
+<area shape="rect" id="node6" href="$group___m24_s_r___i2_c___public___functions.html#gac5912f2cd2d4f715c94cd9842d70cb42" title="This functions reads a response of the M24SR device. " alt="" coords="504,107,693,133"/>
+<area shape="rect" id="node5" href="$group___m24_s_r___i2_c___private___functions.html#gab27f50717fcd6854fa5562fefaeb472d" title="This functions polls the I2C interface. " alt="" coords="742,56,855,83"/>
+</map>
